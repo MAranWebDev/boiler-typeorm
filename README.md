@@ -6,16 +6,15 @@
 
 **setup eslint**
 
-- link (eslint): https://eslint.org/docs/latest/use/getting-started
-  - eslint airbnb (eslint-config-airbnb): https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb
-  - https://www.npmjs.com/package/eslint-config-airbnb
-  - https://www.npmjs.com/package/eslint-config-airbnb-base
-  - https://www.npmjs.com/package/eslint-config-airbnb-typescript
+- eslint: https://eslint.org/docs/latest/use/getting-started
+- eslint-config-airbnb: https://www.npmjs.com/package/eslint-config-airbnb
+- eslint-config-airbnb-base: https://www.npmjs.com/package/eslint-config-airbnb-base
+- eslint-config-airbnb-typescript: https://www.npmjs.com/package/eslint-config-airbnb-typescript
 
 **prettier**
 
-- link (prettier): https://prettier.io/docs/en/install.html
-  - eslint prettier (eslint-config-prettier): https://github.com/prettier/eslint-config-prettier
+- prettier: https://prettier.io/docs/en/install.html
+- eslint-config-prettier: https://github.com/prettier/eslint-config-prettier
 
 **typeorm**
 
